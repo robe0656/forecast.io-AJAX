@@ -1,0 +1,27 @@
+h1{
+    font-family:Georgia, serif;
+    color: orange;
+    
+}
+
+p {
+    font-family:Calibri, sans-serif;
+    color: orange;
+}
+.weather-forecast {
+    font-size: 1.6rem;
+    
+}
+
+tr {
+    border: 2px solid black;
+    padding: 2px;
+    
+}
+
+td {
+    border: 2px solid black;
+    padding: 4px;
+    color: orange;
+    
+}
